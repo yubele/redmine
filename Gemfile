@@ -16,6 +16,7 @@ gem "actionpack-action_caching"
 gem "actionpack-xml_parser"
 gem "roadie-rails"
 gem "mimemagic"
+gem "redmine_github_hook"
 
 gem "nokogiri", "~> 1.6.8"
 gem "i18n", "~> 0.7.0"
