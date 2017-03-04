@@ -4,3 +4,6 @@
 [submodule "plugins/redmine_tags"]
 	path = plugins/redmine_tags
 	url = https://github.com/ixti/redmine_tags.git
+[submodule "public/themes/gitmike"]
+	path = public/themes/gitmike
+	url = https://github.com/makotokw/redmine-theme-gitmike.git
