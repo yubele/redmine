@@ -1,3 +1,6 @@
 [submodule "public/themes/minelab"]
 	path = public/themes/minelab
 	url = https://github.com/hardpixel/minelab.git
+[submodule "plugins/redmine_tags"]
+	path = plugins/redmine_tags
+	url = https://github.com/ixti/redmine_tags.git
