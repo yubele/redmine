@@ -34,6 +34,7 @@
 /tmp/test/*
 /tmp/thumbnails/*
 /vendor/cache
+/vendor/bundle
 *.rbc
 
 /.bundle
